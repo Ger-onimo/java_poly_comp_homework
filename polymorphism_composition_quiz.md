@@ -22,9 +22,12 @@ ANS - When we want to implement behaviours in an interface.
 # Composition
 
 6. What do we mean by 'composition' in reference to object-oriented programming?
+ANS - There is a "has a" relationship between the classes.
 
 7. When would you use composition? Provide a simple example in Java.
+ANS -
 
 8. What is/are the advantage(s) of using composition?
+ANS - can use behaviours from other classes
 
 9. What happens to the behaviours when the object composed of them is destroyed?
